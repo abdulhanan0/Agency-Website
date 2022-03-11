@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Content Strategy &#8211; Store</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 03 Jul 2020 11:22:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Okler Mobile App</title>
+		<link>./../../../portfolio/okler-mobile-app/index.html</link>
+					<comments>./../../../portfolio/okler-mobile-app/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2020 11:22:01 +0000</pubDate>
+				<guid isPermaLink="false">http://sw-themes.com/porto_dummy/digital-agency2-dark/?post_type=portfolio&#038;p=542</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row row pb-4"><div class="vc_column_container col-md-12 col-lg-4"><div class="wpb_wrapper vc_column-inner"><div class="porto-section"><section class=" portfolio-meta-section pb-5"><h3 style="font-size: 26px;line-height: 27px;font-weight:700;letter-spacing:-0.05em" data-appear-animation="fadeInLeft" data-appear-animation-delay="100" class="vc_custom_heading mb-5 align-left heading-primary">Project Details</h3><h4 style="font-size: 16px;color: #777777;line-height: 1.5;font-weight:400;letter-spacing:0" data-appear-animation="fadeInLeft" data-appear-animation-delay="200" class="vc_custom_heading mb-4 align-left"><strong>Client:</strong> Okler Themes</h4><h4 style="font-size: 16px;color: #777777;line-height: 1.5;font-weight:400;letter-spacing:0" data-appear-animation="fadeInLeft" data-appear-animation-delay="300" class="vc_custom_heading mb-4 align-left"><strong>Year:</strong> 2020</h4><h4 style="font-size: 16px;color: #777777;line-height: 1.5;font-weight:400;letter-spacing:0" data-appear-animation="fadeInLeft" data-appear-animation-delay="400" class="vc_custom_heading mb-4 align-left"><strong>Timeframe:</strong> 6 months</h4><h4 style="font-size: 16px;color: #777777;line-height: 1.5;font-weight:400;letter-spacing:0" data-appear-animation="fadeInLeft" data-appear-animation-delay="500" class="vc_custom_heading mb-4 align-left"><strong>Main Service:</strong> Brand and Identity, Content Strategy</h4><h4 style="font-size: 16px;color: #777777;line-height: 1.5;font-weight:400;letter-spacing:0" data-appear-animation="fadeInLeft" data-appear-animation-delay="600" class="vc_custom_heading mb-0 align-left"><strong>Return Over Investiment:</strong> 90%</h4></section></div><div class="porto-section"><section class=" portfolio-filter-section mt-5 pt-2 mb-5 mb-lg-0"><h3 style="font-size: 26px;line-height: 27px;font-weight:700;letter-spacing:-0.05em" class="vc_custom_heading vc_custom_1594053565247 align-left heading-light">Filter by Category:</h3><ul class="portfolio-cat-list list list-unstyled"><li class="portfolio-item"><a href="./../../b2b-software/index.html"><h5 class="portfolio-item-title">B2B Software</h5></a></li><li class="portfolio-item"><a href="./../../brand-and-identity/index.html"><h5 class="portfolio-item-title">Brand and Identity</h5></a></li><li class="portfolio-item"><a href="./../../content-marketing/index.html"><h5 class="portfolio-item-title">Content Marketing</h5></a></li><li class="portfolio-item active"><a href="./../index.html"><h5 class="portfolio-item-title">Content Strategy</h5></a></li><li class="portfolio-item"><a href="./../../email-marketing/index.html"><h5 class="portfolio-item-title">Email Marketing</h5></a></li><li class="portfolio-item"><a href="./../../search-engine-optimize/index.html"><h5 class="portfolio-item-title">Search Engine Optimize</h5></a></li><li class="portfolio-item"><a href="./../../social-media-ads/index.html"><h5 class="portfolio-item-title">Social Media Ads</h5></a></li><li class="portfolio-item"><a href="./../../ui-design/index.html"><h5 class="portfolio-item-title">UI Design</h5></a></li><li class="portfolio-item"><a href="./../../web-development/index.html"><h5 class="portfolio-item-title">Web Development</h5></a></li></ul></section></div></div></div><div class="vc_column_container col-md-12 col-lg-8"><div class="wpb_wrapper vc_column-inner"><p style="font-size: 22px;line-height: 1.6;font-weight:400" data-appear-animation="fadeInLeft" data-appear-animation-delay="200" class="vc_custom_heading mb-4 custom-font1 align-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus ante. Nam suscipit urna risus.</p><p style="font-size: 16px;line-height: 26px" data-appear-animation="fadeInLeft" data-appear-animation-delay="400" class="vc_custom_heading mb-4 align-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at massa quam. Maecenas et sem accumsan, dictum arcu eu, consectetur eros. Nulla tortor est, lobortis vestibulum turpis sed, mollis commodo orci.</p><p style="font-size: 16px;line-height: 26px" data-appear-animation="fadeInLeft" data-appear-animation-delay="600" class="vc_custom_heading mb-5 align-left">Sed elementum cursus ante in suscipit. Etiam a arcu consequat, vehicula nisi in, efficitur lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. In eu lectus ultricies, pellentesque libero vitae, dictum erat.</p><div class="vc_row wpb_row vc_inner row"><div class="col-sm-6 vc_column_container col-md-6"><div class="wpb_wrapper vc_column-inner">
+	<div class="wpb_single_image wpb_content_element vc_align_left   mb-0 w-100" data-appear-animation="fadeInLeft" data-appear-animation-delay="200">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="388" height="388" src="./../../../wp-content/uploads/2020/07/gallery-our-work-1.jpg" class="vc_single_image-img attachment-full" alt="Portfolio Image" loading="lazy" /></div>
+		</div>
+	</div>
+</div></div><div class="pt-4 mt-1 pt-sm-0 mt-sm-0 col-sm-6 vc_column_container col-md-6"><div class="wpb_wrapper vc_column-inner">
+	<div class="wpb_single_image wpb_content_element vc_align_left   mb-0 w-100" data-appear-animation="fadeInLeft" data-appear-animation-delay="400">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="388" height="388" src="./../../../wp-content/uploads/2020/07/gallery-our-work-2.jpg" class="vc_single_image-img attachment-full" alt="Portfolio Image" loading="lazy" /></div>
+		</div>
+	</div>
+</div></div></div>
+	<div class="wpb_single_image wpb_content_element vc_align_left   pt-4 mt-1 w-100" data-appear-animation="fadeInLeft" data-appear-animation-delay="600">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="./../../../wp-content/uploads/2020/07/gallery-our-work-3.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+		</div>
+	</div>
+</div></div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../portfolio/okler-mobile-app/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

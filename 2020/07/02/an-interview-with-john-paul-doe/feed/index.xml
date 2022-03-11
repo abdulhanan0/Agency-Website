@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: An Interview With John Paul Doe	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 03 Jul 2020 04:38:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		By: editor		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[editor]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2020 04:38:53 +0000</pubDate>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/digital-agency2-dark/?p=200#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-2&quot;&gt;editor&lt;/a&gt;.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-2">editor</a>.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: editor		</title>
+		<link>./../index.html#comment-3</link>
+
+		<dc:creator><![CDATA[editor]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2020 04:38:07 +0000</pubDate>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/digital-agency2-dark/?p=200#comment-3</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-2&quot;&gt;editor&lt;/a&gt;.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-2">editor</a>.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: editor		</title>
+		<link>./../index.html#comment-2</link>
+
+		<dc:creator><![CDATA[editor]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2020 04:37:57 +0000</pubDate>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/digital-agency2-dark/?p=200#comment-2</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
